@@ -1,5 +1,5 @@
 <template>
-    <div id="get-todo">
+    <div id="get-t">
         <form @submit.prevent="addTask">
             <input 
                 class="form-control"
